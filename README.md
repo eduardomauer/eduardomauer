@@ -1,9 +1,5 @@
-┌─────────────────────────────────┐
-│  Commit changes                 │
-│                                 │
-│  [ Update README.md           ] │
-│                                 │
-│  ● Commit directly to main      │
-│                                 │
-│  [ Commit changes ]  [ Cancel ] │
-└─────────────────────────────────┘
+# Eduardo Mauer
+
+Curador de territórios. Dramaturgo de memórias.
+
+Lisboa, Portugal · Associação MILK
