@@ -2,43 +2,47 @@
 
 **Eduardo Mauricio Vieira Cabral e Araujo**  
 Nome artístico: **Eduardo Mauer**  
-Founder and cultural systems architect of **Associação MILK — Movimento de Intervenções e Linguagens Kulturais e Arte**  
+Fundador e arquitecto de sistemas culturais da **Associação MILK — Movimento de Intervenções e Linguagens Kulturais e Arte**  
 Lisboa, Portugal
 
-I develop cultural infrastructures, public-interest cultural systems, territorial research methods and digital interfaces for memory, participation, accessibility, cultural governance and institutional interoperability.
+Desenvolvo infraestruturas culturais, sistemas culturais de interesse público, métodos de investigação territorial e interfaces digitais para memória, participação, acessibilidade, governação cultural e interoperabilidade institucional.
 
-My current work is centred on the **Atlas Vivo MILK**, a living cultural atlas for Portugal designed as a public interface for memory, participation, accessibility and territorial imagination, supported by protected methodological layers for research, governance and cultural complexity.
+O meu trabalho actual centra-se no **Atlas Vivo MILK**, atlas cultural vivo de Portugal concebido como interface pública para memória, participação, acessibilidade e imaginação territorial, sustentado por camadas metodológicas protegidas de investigação, governação e complexidade cultural.
 
-## Core work
+## Trabalho principal
 
-- **Atlas Vivo MILK** — public cultural cartography, territorial memory, folklore, festivities, chronicles, visual characters and participatory devices.
-- **Folclore Vivo MILK** — methodological and curatorial framework for contemporary reinterpretation of Portuguese intangible heritage.
-- **OCSR — Observatório de Coesão Social e Redes** — research layer for social cohesion, cultural complexity, public-interest evidence and interpretative governance.
-- **Cultural systems and public interfaces** — web architecture, semantic governance, accessibility, open documentation, licensing and rights separation.
-- **Dialogic education and ludic methodology** — research line connected to ludic language, dialogue, humour and teacher/student interaction.
+- **Atlas Vivo MILK** — cartografia cultural pública, memória territorial, folclore, festividades, crónicas, personagens visuais e dispositivos participativos.
+- **Folclore Vivo MILK** — enquadramento metodológico e curatorial para interpretação contemporânea do património cultural imaterial português.
+- **OCSR — Observatório de Coesão Social e Redes** — investigação sobre coesão social, complexidade cultural, evidência de interesse público e governação interpretativa.
+- **Sistemas culturais e interfaces públicas** — arquitectura web, governação semântica, acessibilidade, documentação pública, licenciamento e separação de direitos.
+- **Educação dialógica e metodologia lúdica** — linha de investigação sobre linguagem lúdica, diálogo, humor e interacção pedagógica.
 
-## Authorship and ORCID separation
+## Identidade, autoria e responsabilidade
 
-- Associação MILK — institutional entity: `0009-0004-9132-2925`
-- Eduardo Mauer — authorial, methodological and academic work: `0009-0007-6892-6570`
-- Nuno A. — photography, digital artwork and authorised visual contributions: `0009-0009-1781-4020`
+- **Associação MILK — Movimento de Intervenções e Linguagens Kulturais e Arte** — entidade institucional promotora e mantenedora. NIPC: `518706451`.
+- **Eduardo Mauer** — autoria individual, metodológica e académica. ORCID: `0009-0007-6892-6570`.
+- **Nuno A.** — fotografia, arte digital e contribuições visuais autorizadas. ORCID: `0009-0009-1781-4020`.
 
-The public profile must not merge institutional authorship, Eduardo Mauer authorial work and Nuno A. authorship without explicit distinction.
+A Associação MILK não é identificada por ORCID. Autoria individual, responsabilidade institucional, contribuição, publicação, manutenção e titularidade de direitos são funções distintas e devem permanecer separadas.
 
-## Public repositories and records
+## Repositórios e registos públicos
 
-- `eduardomauer/metodologias-culturais` — public technical documentation for MILK cultural methodologies, interoperability, licences, accessibility, citation metadata and public documentation.
-- `eduardomauer/metodologias-curatoriais-` — public curatorial documentation layer.
-- Zenodo DOI already active for the academic/authorship layer: `10.5281/zenodo.20618922`.
-- Target public domain for Atlas Vivo MILK: `atlas.associacaomilk.pt`.
+- `eduardomauer/metodologias-culturais` — documentação técnica pública validada sobre metodologias culturais, interoperabilidade, licenças, acessibilidade, citação e infraestrutura digital de interesse público.
+- `eduardomauer/metodologias-curatoriais-` — documentação curatorial pública validada.
+- Codeberg institucional: `https://codeberg.org/associacaomilk`.
+- DOI Zenodo referenciado para a camada académica e autoral: `10.5281/zenodo.20618922`.
+- Domínio institucional: `https://associacaomilk.pt`.
+- Domínio previsto para o Atlas Vivo MILK: `https://atlas.associacaomilk.pt`.
 
-## Publication principles
+A referência a um identificador ou endereço não substitui a validação do respectivo registo, titularidade, licença, versão e estado de publicação.
 
-The public layer must be legible, accessible, reusable and citable. The protected layer must preserve authorship, consent, cultural responsibility, RGPD compliance, curatorial integrity and MILK intellectual property.
+## Princípios de publicação
 
-Public documentation is opened only when it does not expose personal data, internal inference engines, sensitive methodology, private assets, unlicensed images, restricted visual works or unvalidated rights.
+A camada pública deve ser legível, acessível, citável e reutilizável apenas nos termos expressamente indicados para cada recurso. A camada protegida preserva autoria, consentimento, responsabilidade cultural, conformidade RGPD, integridade curatorial e propriedade intelectual da MILK.
 
-## Contact
+A documentação só é publicada quando não expõe dados pessoais, métodos internos, activos privados, imagens sem licença, obras visuais restritas, conteúdos sem proveniência ou direitos ainda não validados.
+
+## Contacto
 
 Associação MILK — Movimento de Intervenções e Linguagens Kulturais e Arte  
 Lisboa, Portugal  
