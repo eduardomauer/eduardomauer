@@ -7,15 +7,18 @@ NIPC: `518706451`
 Domínio institucional: `https://associacaomilk.pt`  
 Repositório institucional: `https://codeberg.org/associacaomilk`
 
-A Associação MILK não é identificada por ORCID. Qualquer ORCID deve corresponder exclusivamente a uma pessoa física titular do respectivo registo.
+A Associação MILK não é identificada por ORCID.
 
 ## Identificadores individuais
 
-- Eduardo Mauer: `0009-0007-6892-6570`
-- Nuno A.: `0009-0009-1781-4020`
+- **Eduardo Mauricio Vieira Cabral e Araujo** — nome artístico: **Eduardo Mauer** — ORCID: `0009-0007-6892-6570`.
+- **Nuno Filipe Fernandes Vieira Cabral e Araujo** — nome artístico: **Nuno A.** — ORCID: `0009-0009-1781-4020`.
+
+## Funções públicas declaradas
+
+- Eduardo Mauer: autoria individual, metodológica e académica.
+- Nuno A.: coautoria, investigação visual, fotografia, arte digital e contribuições visuais autorizadas.
 
 ## Regra de separação
 
-O perfil público não deve fundir autoria individual, responsabilidade institucional, contribuição, manutenção, publicação ou titularidade de direitos.
-
-O identificador `0009-0004-9132-2925` não é utilizado nesta documentação como identificador institucional. A sua eventual associação a uma pessoa física depende de confirmação directa da titularidade no ORCID.
+Autoria individual, responsabilidade institucional, contribuição, manutenção, publicação e titularidade de direitos permanecem separadas.
