@@ -20,8 +20,8 @@ O meu trabalho actual centra-se no **Atlas Vivo MILK**, atlas cultural vivo de P
 ## Identidade, autoria e responsabilidade
 
 - **Associação MILK — Movimento de Intervenções e Linguagens Kulturais e Arte** — entidade institucional promotora e mantenedora. NIPC: `518706451`.
-- **Eduardo Mauer** — autoria individual, metodológica e académica. ORCID: `0009-0007-6892-6570`.
-- **Nuno A.** — fotografia, arte digital e contribuições visuais autorizadas. ORCID: `0009-0009-1781-4020`.
+- **Eduardo Mauricio Vieira Cabral e Araujo**, nome artístico **Eduardo Mauer** — autoria individual, metodológica e académica. ORCID: `0009-0007-6892-6570`.
+- **Nuno Filipe Fernandes Vieira Cabral e Araujo**, nome artístico **Nuno A.** — coautoria, investigação visual, fotografia, arte digital e contribuições visuais autorizadas. ORCID: `0009-0009-1781-4020`.
 
 A Associação MILK não é identificada por ORCID. Autoria individual, responsabilidade institucional, contribuição, publicação, manutenção e titularidade de direitos são funções distintas e devem permanecer separadas.
 
